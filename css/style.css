@@ -1,0 +1,38 @@
+body {
+    background-color: blueviolet;
+}
+
+button {
+    color: red;
+}
+
+h4 {
+    font-size: 70%;
+    font-weight: bold;
+    color: white;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.2);
+    max-width: 900px;
+    width: 78%;
+}
+
+.btn {
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.guide {
+    padding: 30%;
+}
+
+.category-row {
+    padding: 3%;
+    margin: 30px;
+}
+
+#photo {
+    padding-bottom: 3%;
+    size: 60%;
+}
